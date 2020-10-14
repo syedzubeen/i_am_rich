@@ -1,7 +1,9 @@
 name: i_am_rich
 description: A new Flutter application.
 
+
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
 
 version: 1.0.0+1
 
@@ -13,6 +15,7 @@ dependencies:
     sdk: flutter
 
 
+
   cupertino_icons: ^1.0.0
 
 dev_dependencies:
@@ -20,8 +23,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
+
   uses-material-design: true
+
   assets:
-     - images/diamond.png
-
-
+     - images/
